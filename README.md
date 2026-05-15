@@ -20,4 +20,6 @@ What code is there, and what does it do?
 
 ## Rendered output
 
-https://github.com/iriscarnahan05/workshop-07_spring-2026/blob/main/code/abalone-example.pdf
+Code output for abalone example [here](https://github.com/iriscarnahan05/workshop-07_spring-2026/blob/main/code/abalone-example.pdf).
+
+Code output for sonadora example [here](https://github.com/iriscarnahan05/workshop-07_spring-2026/blob/main/code/sonadora-temperature-example.pdf).
