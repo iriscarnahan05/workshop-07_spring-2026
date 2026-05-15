@@ -3,7 +3,7 @@ title: "Linear regression: Sonadora temperature and elevation example"
 author: "Iris Carnahan"
 date: "2026-05-15"
 format:
-  html:
+  pdf:
     toc: true # use this to display a table of contents
 execute:
   message: false # use this to make sure messages don't show up
@@ -31,11 +31,11 @@ Data from Ramirez, A. 2024. Sonadora elevational plots: long-term monitoring of 
 
 ## a. Questions and hypotheses
 
-Question: Does elevation (in meters) predict temperature (in °C)?
+Question: Does elevation (in meters) predict air temperature (in °C)?
 
-H~0~: Elevation (m) does not predict temperature (°C).
+H~0~: The elevation (m) does not predict air temperature (°C).
 
-H~A~: Elevation (m) predicts temperature (°C).
+H~A~: The elevation (m) predicts temperature (°C).
 
 ## b. Cleaning and summarizing
 
